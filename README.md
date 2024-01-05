@@ -1,2 +1,25 @@
-# Amar-Bin-Native-App
-Amar Bin is an innovative React Native mobile application designed to revolutionize waste management and recycling. With a user-friendly interface and powerful features, Amar Bin empowers users to efficiently manage their day-to-day waste bins while providing a seamless platform for selling recyclable materials and other unused items.
+# Amar Bin - React Native App
+
+Amar Bin is a React Native app that facilitates the management of day-to-day waste bins and provides a platform for selling recyclable materials and other unused items.
+
+## Features
+
+- User account management.
+- Bin tracking and management.
+- Selling recyclable materials.
+
+## Getting Started
+
+Follow these steps to get the app up and running on your local machine.
+
+### Prerequisites
+
+- Node.js and npm installed.
+- React Native development environment set up.
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/amar-bin.git
